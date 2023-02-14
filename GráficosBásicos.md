@@ -12,4 +12,4 @@ O Dashboard responde as perguntas abaixo:
 •Pergunta 4 -Qual foi a média de desconto nas vendas por subcategoria de produto?<br />
 •Pergunta 5 -Quais países tiveram maior média de valor de venda?<br />
 
-
+![DashboardProjeto1](https://user-images.githubusercontent.com/114547875/218780629-9306e8e0-0bc7-467c-b43c-2e025efbab05.png)
