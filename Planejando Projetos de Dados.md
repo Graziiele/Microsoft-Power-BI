@@ -19,13 +19,34 @@ Para entender melhor os passos a passos é importante saber algumas nomenclatura
 <div align="center">
   
 ### Diferenças de algumas nomenclaturas em análise de dados
- 
- <div>
-
-<div align="center">
 
 ![Diferenças_Easy-Resize com (1)](https://user-images.githubusercontent.com/114547875/236480613-94daa639-eaa8-4e60-9098-664096fa55c4.jpg)
 
-<div>
+</div>
 
  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+  
+ ### Visão Geral de um projeto de BI (Business Intelligence)
+  
+  Em um projeto de BI trabalhamos com dados estruturados e organização bem definida.      
+                                                                                               
+  Esses dados podem estar em um banco relacional transacional (OLTP) <br>
+  ou analítico (OLAP) como um Data Warehouse. Ou podemos ter os dados <br>
+  simplesmente em arquivos tabulares(CSV ou TXT).
+  
+  Para um projeto de BI eficiente devemos separar os dados em dimensões e fatos e <br>
+  então cruzar os dados para responder às questões de negócios.
+  
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+  <div align="center">
+  
+  ### Diferenças OLTP vs OLAP
+  
+  ![image](https://user-images.githubusercontent.com/114547875/236494524-e7303de9-f6fd-4c9a-8e7b-49bcae9371dd.png)
+  
+  </div>
+  
+  OLTP (Online Transaction Processing) e OLAP (Online Analytical Processing) são dois tipos diferentes de sistemas de processamento de dados
+
