@@ -31,12 +31,9 @@ Para entender melhor os passos a passos é importante saber algumas nomenclatura
   
   Em um projeto de BI trabalhamos com dados estruturados e organização bem definida.      
                                                                                                
-  Esses dados podem estar em um banco relacional transacional (OLTP) <br>
-  ou analítico (OLAP) como um Data Warehouse. Ou podemos ter os dados <br>
-  simplesmente em arquivos tabulares(CSV ou TXT).
+  Esses dados podem estar em um banco relacional transacional (OLTP) ou analítico (OLAP) como um Data Warehouse. Ou podemos ter os dados simplesmente emarquivos tabulares (CSV ou TXT).
   
-  Para um projeto de BI eficiente devemos separar os dados em dimensões e fatos e <br>
-  então cruzar os dados para responder às questões de negócios.
+  Para um projeto de BI eficiente devemos separar os dados em dimensões e fatos e então cruzar os dados para responder às questões de negócios.
   
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
