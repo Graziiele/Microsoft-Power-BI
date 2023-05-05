@@ -1,8 +1,20 @@
-## Modelagem de Dados 
+ <div align="center">
 
-***Introdução***
+## Estudos Sobre Modelagem de Dados 
 
-É o ato de explorar estruturas orientadas a dados. Como outros artefatos de modelagem, modelos de dados podem ser usados para uma variedade de propósitos, desde modelos conceituais de alto nível até modelos físicos de dados. Os modelos de dados são ferramentas que permitem demonstrar como serão construídas as estruturas de dados que darão suporte aos processos de negócios.
+![image](https://user-images.githubusercontent.com/114547875/236554431-7196f97d-e0e6-41f1-96a8-1f075c6cf218.png)
+
+ </div>
+ 
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### O que é modelagem de dados ?
+
+É o processo de representar as informações de um sistema de uma forma estruturada, a fim de facilitar o armazenamento, organização, recuperação e análise desses dados. Em outras palavras, é a criação de um modelo que descreve como os dados estão relacionados e como serão armazenados em um banco de dados. Os modelos de dados são ferramentas que permitem demonstrar como serão construídas as estruturas de dados que darão suporte aos processos de negócios.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Quando Utilização a modelagem de dados?
 
 Utilizamos a modelagem de dados para a cronstrução de estruturas de armazenamentos, onde contemplam todas as atividades relacionadas ao banco de dados, apresentando assim os dados organizados e armazenados. Entre outros exemplos:
 
@@ -13,6 +25,7 @@ Utilizamos a modelagem de dados para a cronstrução de estruturas de armazename
 • Normalizar o banco para reduzir a redundância dos dados. <br/>
 • Diversificar os dados para melhorar o desempenho <br/> 
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Três etapas compõem o processo de modelar um banco de dados, sendo elas:
 
 1 - Modelagem conceitual; <br/>
