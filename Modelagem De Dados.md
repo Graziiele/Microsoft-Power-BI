@@ -26,24 +26,24 @@ Utilizamos a modelagem de dados para a cronstrução de estruturas de armazename
 • Diversificar os dados para melhorar o desempenho <br/> 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Três etapas compõem o processo de modelar um banco de dados, sendo elas:
 
-1 - Modelagem conceitual; <br/>
-2 - Modelagem lógica;  <br/>
-3 - Modelagem física. <br/>
+### Quais Os Tipos De Modelagem de Dados?
 
---------------------------------------------------------------------------------------------------------------------------------
+Existem três tipos principais de modelagem de dados:
 
-***Modelos Lógico de Dados (MLDs)*** 
+### Modelagem conceitual:
 
-são usados para explorar os conceitos do domínio e seus relacionados. Onde é possível definir atributos que serão as chaves para a estrutura.
+A modelagem conceitual é o primeiro nível de modelagem de dados, que representa uma visão de alto nível do sistema. O objetivo da modelagem conceitual é identificar e descrever os principais conceitos, entidades e relacionamentos do sistema. A modelagem conceitual é feita usando diagramas como o Diagrama de Entidade-Relacionamento (ER) e o Modelo Entidade-Relacionamento Estendido (EER).
 
-***Modelos Físicos de Dados (MFDs)***
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-são usados para projetar o esquema interno de um banco de dados, demostra os dados físicamente e a são usados para projetar o esquema interno de um banco de dados.
+### Modelagem lógica:
 
-***Modelagem conceitual***
+A modelagem lógica é o segundo nível de modelagem de dados, que define a estrutura lógica dos dados. O objetivo da modelagem lógica é descrever a forma como os dados serão armazenados e organizados no banco de dados. A modelagem lógica é feita usando diagramas como o Diagrama de Relacionamento de Entidades (ERD), o Diagrama de Relacionamento de Entidades e Atributos (ERAD) e o Diagrama de Modelagem de Objetos (OMD).
 
-São normalmente criados como parte do esforço inicial do entendimento dos requisitos do sistema, pois eles são usados para explorar as estruturas e conceitos de negócio; 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+### Modelagem física:
+
+A modelagem física é o terceiro nível de modelagem de dados, que descreve como os dados serão armazenados fisicamente no banco de dados. O objetivo da modelagem física é otimizar a estrutura de armazenamento de dados para maximizar a eficiência e o desempenho do banco de dados. A modelagem física é feita usando diagramas como o Diagrama de Modelagem de Armazenamento (SMD) e o Diagrama de Modelagem de Armazenamento de Objetos (OSMD).
 
