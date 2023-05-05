@@ -1,4 +1,9 @@
-## Data Warehouse 
+<div align="center">
+  
+## DW
+![What-is-Data-Warehouse_Easy-Resize com](https://user-images.githubusercontent.com/114547875/236564534-eaea6381-dfed-4fe4-937f-a9d1a6e4251b.jpg)
+
+</div>
 
 
 É um repositório central de informações que podem ser analisadas para tomar decisões mais adequadas. Podendo conter assim vários bancos de dados onde os dados são organizados em tabelas e colunas. Dentro de cada coluna, podemos definir uma descrição dos dados;
