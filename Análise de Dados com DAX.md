@@ -1,5 +1,16 @@
+<div align="center">
 
-## Power BI - Lingugem DAX (Data Analysis Expression) - Estudos
+## O que é Linguaguem DAX no Power BI?
+
+![DAX_Easy-Resize com (1)](https://user-images.githubusercontent.com/114547875/236562434-5dc216ff-4679-4b8e-ac32-048547df9139.jpg)
+
+</div>
+
+DAX (Data Analysis Expressions) é uma linguagem de fórmulas utilizada no Power BI. A linguagem DAX é usada para criar fórmulas que permitem realizar cálculos complexos em conjuntos de dados, como cálculos de medidas, colunas calculadas, tabelas dinâmicas e gráficos.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Power BI - Lingugem DAX (Data Analysis Expression) - Estudos
 
 * [DAX Guide](https://dax.guide/) - Material de Apoio utulizado 
 * [Power BI](https://powerbi.microsoft.com/pt-br/) - Baixe Aqui 
