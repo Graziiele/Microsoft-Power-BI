@@ -16,7 +16,7 @@ DAX (Data Analysis Expressions) é uma linguagem de fórmulas utilizada no Power
 * [Power BI](https://powerbi.microsoft.com/pt-br/) - Baixe Aqui 
 
 
-#### Nesse projeto para estudo da linguagem Dax, utilizei o dataset e Data Warehouse feito na Modelagem de dados e Data Warehouse. O qual o objetivo é fornecer soluções de Business Intelligence, utilizando o Microsoft Power BI, DbSchema e MYSQL WorkBench. E também tem como objetivo os estudos de algumas funcções DAX (Foi utilizada Criação de nova medida, colunas e tabelas).
+#### Neste projeto de estudo da linguagem DAX, utilizei um conjunto de dados e um Data Warehouse desenvolvidos através da modelagem de dados e do Data Warehouse. O objetivo desse projeto é fornecer soluções de Business Intelligence, utilizando ferramentas como o Microsoft Power BI, DbSchema e MYSQL Workbench. Além disso, o projeto tem como finalidade o estudo de algumas funções DAX, incluindo a criação de novas medidas, colunas e tabelas.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 VendaLojaA = CALCULATE(SUM('dimensional fato_venda'[valor_venda]) , 'dimensional dim_localidade'[nm_localidade] = "Loja A")
